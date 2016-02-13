@@ -1,0 +1,6 @@
+E:\CSharp\Factorizer\Factorizer\bin\Debug\Factorizer.exe.config
+E:\CSharp\Factorizer\Factorizer\bin\Debug\Factorizer.exe
+E:\CSharp\Factorizer\Factorizer\bin\Debug\Factorizer.pdb
+E:\CSharp\Factorizer\Factorizer\obj\Debug\Factorizer.exe
+E:\CSharp\Factorizer\Factorizer\obj\Debug\Factorizer.pdb
+E:\CSharp\Factorizer\Factorizer\obj\Debug\Factorizer.csprojResolveAssemblyReference.cache
